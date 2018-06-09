@@ -1,0 +1,2 @@
+przestrzeń stanów
+uwzględnienie akcji pomiędzy stanami
